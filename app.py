@@ -11,7 +11,7 @@ import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 
 st.set_page_config(
-    page_title="🚗 Предсказание цен на автомобили",
+    page_title="Предсказание цен на автомобили",
     page_icon="🚗",
     layout="wide",
     initial_sidebar_state="expanded"
